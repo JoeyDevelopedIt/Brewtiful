@@ -24,11 +24,11 @@ BreweryDB API's<br/>
  
 # Collaborators Include
 
+Shawn Ard
+https://github.com/ShawnArd
+
 Dan Staggs
 https://github.com/staggsDan
-
-Joseph Adam
-https://github.com/Joeydevelopedit
 
 Eskindir Tsege
 https://github.com/tskindir
